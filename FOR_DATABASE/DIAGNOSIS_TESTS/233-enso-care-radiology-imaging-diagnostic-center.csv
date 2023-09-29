@@ -1,0 +1,8 @@
+test_name,test_cost
+2D Echo,Rs. 1800.00
+Color Doppler,Rs. 2500.00  (Cardiac Colour Doppler / single Limb (Arterial /Venous))
+CT Scan,Rs. 3200.00  (Head / Orbit / Brain Without Cntrast)
+Mammography,Rs. 2500.00  (Sono-mammo)
+MRI Scan,Rs. 3500.00  (Screening Any)
+Sonography (Ultrasound / USG),Rs. 2500.00  (Sonomammography / Obstetric anomaly scan)
+X-Ray,Rs. 2250.00  (Barium Procedure)

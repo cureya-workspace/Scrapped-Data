@@ -1,0 +1,21 @@
+test_name,test_cost
+Ambulance Service,Rs. 400.00  (Local Area)
+ANC Profile,Rs. 1500.00
+Bicarbonate Test,Rs. 300.00
+Color Doppler,Rs. 850.00  (Lower Limbs Artery / Veins)
+CT Scan,Rs. 3000.00  (Brain)
+Delivery Charges,Rs. 35000.00  (Operation Delivery, Private Ward AC, Package Rate)
+EEG,Rs. 1200.00
+General Ward,Rs. 50.00
+ICU,Rs. 3000.00
+MRI Scan,Rs. 9000.00  (Plain Brain with Contrast)
+Nerve Conduction Velocity (NCV),Rs. 900.00  (2 & 4 limbs)
+NICU,Rs. 5000.00
+OPD Consultation Fee,Rs. 270.00  (Gynecologist Doc.)
+Oxygen Charges,Rs. 50.00  (Per Hour)
+Private Ward,Rs. 3000.00  (Deluxe)
+Protein Test,Rs. 300.00
+Semi Private Ward,Rs. 100.00  (Twin Sharing )
+Sonography (Ultrasound / USG),Rs. 950.00  (USG Pregnancy)
+Ventilator Charges,Rs. 2000.00
+X-Ray,Rs. 250.00  (Chest)
