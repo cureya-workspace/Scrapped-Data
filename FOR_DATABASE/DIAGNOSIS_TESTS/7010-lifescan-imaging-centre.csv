@@ -1,5 +1,5 @@
 test_name,test_cost
-CT Scan,Rs. 11000.00  (chest+upper abdomen contrast)
-MRI Scan,Rs. 13500.00  (Whole Abdomen Contarst)
-Sonography (Ultrasound / USG),Rs. 2000.00  (Pregnancy Anomaly)
-X-Ray,Rs. 300.00  (Chest)
+CT Scan,"Rs. 11000.00  (chest+upper abdomen contrast)"
+MRI Scan,"Rs. 6500.00  (Brain Plain)"
+Sonography (Ultrasound / USG),"Rs. 2000.00  (Pregnancy Anomaly)"
+X-Ray,"Rs. 300.00  (Chest)"

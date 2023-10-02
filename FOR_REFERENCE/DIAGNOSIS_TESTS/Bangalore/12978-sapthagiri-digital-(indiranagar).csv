@@ -1,8 +1,8 @@
 test_name,test_cost
-2D Echo,Rs. 1500.00
-Color Doppler,Rs. 1200.00  (Renal Doppler / Carotid Doppler / Venous Single Leg Doppler / Arterial Single Leg Doppler)
-CT Scan,Rs. 4000.00  (Cervical spine or TM joint)
-EEG,Rs. 3200.00
-MRI Scan,Rs. 8000.00  (Abdomen / MRCP / Venogram / Neck Angiography / Pelvis / Wrist / Each Shoulder / Each Ankle / Each Foot / Each Thigh)
-Nerve Conduction Velocity (NCV),Rs. 2600.00  (Two limbs)
-Sonography (Ultrasound / USG),Rs. 800.00  (Abdomen or Thyroid or Knee)
+2D Echo,"Rs. 1500.00"
+Color Doppler,"Rs. 2400.00  (Arterial / Venous-Both legs)"
+CT Scan,"Rs. 4000.00  (Cervical spine or TM joint)"
+EEG,"Rs. 3200.00"
+MRI Scan,"Rs. 15000.00  (Abdome and Pelvis)"
+Nerve Conduction Velocity (NCV),"Rs. 2600.00  (Two limbs)"
+Sonography (Ultrasound / USG),"Rs. 800.00  (Abdomen or Thyroid or Knee)"
